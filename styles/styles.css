@@ -16,16 +16,17 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10px;
+  padding: 20px;
 }
 
-h1 {
+.h1__title {
   color: #ee6436;
   font-weight: bold;
+  font-size: 0.6rem;
 }
 
-span {
+.span__section {
   font-family: inherit;
   font-weight: 800;
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
