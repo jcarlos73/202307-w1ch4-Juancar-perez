@@ -9,12 +9,23 @@ html {
 }
 body {
   margin: 0;
-  font-size: 1rem;
 }
 
-.section-container {
+.container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 10px;
+}
+
+h1 {
+  color: #ee6436;
+  font-weight: bold;
+}
+
+span {
+  font-family: inherit;
+  font-weight: 800;
+  font-size: 2rem;
 }
